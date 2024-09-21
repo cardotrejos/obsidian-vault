@@ -1,0 +1,3 @@
+- Learn javascript and typescript concepts (under the hood)
+- Study algorithms and CS
+- 

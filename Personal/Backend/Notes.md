@@ -1,0 +1,1 @@
+[Postgres Superpowers in Practice](https://event-driven.io/pl/postgres_superpowers/)

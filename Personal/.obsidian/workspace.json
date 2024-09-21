@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "fcaf58f2e6d2f554",
+    "type": "split",
+    "children": [
+      {
+        "id": "0375a7d74b98314f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "370a7026299f0eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indie Hacker/Things.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c4c50b0532d894d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6ef74f00ae581c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fa0945b39a5b7be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1feb5b01408b456d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "zer",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bb561bb2a77e0fd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "759497d1fcd8c5f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "01af38cf63844495",
+    "type": "split",
+    "children": [
+      {
+        "id": "6442815f56b82418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc45514f77437c19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Indie Hacker/Things.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "df037295dd0d6043",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Indie Hacker/Things.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bff99478a6265cc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20fac75d6e9fe29b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Indie Hacker/Things.md"
+              }
+            }
+          },
+          {
+            "id": "226b7317c400f46e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "48dd9b49d2dc19fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "370a7026299f0eeb",
+  "lastOpenFiles": [
+    "Indie Hacker/Ideas.md",
+    "Indie Hacker/Drawing 2024-09-21 14.21.03.excalidraw.md",
+    "Indie Hacker/Credit stuff.md",
+    "Indie Hacker/Things.md",
+    "Recursive Search Binary Tree.md",
+    "Indie Hacker/Untitled.md",
+    "Indie Hacker/Untitled.canvas",
+    "Elixir/Localhost.md",
+    "Signwell/Secrets.yaml.md",
+    "Signwell/S3.md",
+    "Signwell/Drag & Resize Investigation.md",
+    "Signwell/AWS.md",
+    "FiveToNine/Microsoft teams bot.md",
+    "Meru/Meru.md",
+    "Justo/WMS.md",
+    "Justo/Support.md",
+    "Justo/Pendientes.md",
+    "Justo/ENV.md",
+    "Justo/11-12-2023.md",
+    "FiveToNine/Vite Migration.md",
+    "Elixir/Resources.md",
+    "Elixir/Pending CV.md",
+    "FivetonineAI Event Suggester.md",
+    "Personal/Study.md",
+    "Elixir/Elixir Dev Bootcamp/8 - Metrics & Distributed tooling.md",
+    "Screenshot 2024-04-14 at 5.12.54 PM.png",
+    "Screenshot 2024-04-14 at 5.13.17 PM.png",
+    "Screenshot 2024-04-14 at 5.03.39 PM.png",
+    "Screenshot 2024-04-14 at 5.03.59 PM.png",
+    "Screenshot 2024-04-14 at 5.04.02 PM.png",
+    "Screenshot 2024-04-14 at 5.04.12 PM.png",
+    "Screenshot 2024-04-14 at 5.04.29 PM.png",
+    "Screenshot 2024-04-14 at 5.04.53 PM.png",
+    "Screenshot 2024-04-14 at 5.05.05 PM.png",
+    "Screenshot 2024-04-14 at 5.05.25 PM.png",
+    "Elixir/Elixir Dev Bootcamp/9 - How to use Elixir to Architect an Application & Remote Debugging.md",
+    "Elixir/Elixir Dev Bootcamp/Errors, Tips, Finds.md",
+    "Meru",
+    "Music",
+    "Secops & Bugbounty",
+    "Personal",
+    "Blog",
+    "Elixir/Bird streaming",
+    "Elixir/Weather Station",
+    "Justo",
+    "Trading",
+    "Elixir/Imagenes"
+  ]
+}

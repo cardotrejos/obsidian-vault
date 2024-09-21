@@ -1,0 +1,6 @@
+- Nerves with Elixir and how I solved the problems
+- Build a bird feeder streaming
+- Sunset stream?
+- Build something with actix + htmx
+- Building something with Nextjs 14 and Langchain
+- Build something with T3 stack

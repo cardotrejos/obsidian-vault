@@ -1,0 +1,3 @@
+- Post de la creacion del memebot
+- Post de la creacion del paquete npm y del problema con los types
+- Post creacion de las polas y el uso de keystone

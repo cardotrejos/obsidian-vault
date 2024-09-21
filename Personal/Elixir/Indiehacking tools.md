@@ -1,0 +1,9 @@
+https://hexdocs.pm/notionex/readme.html#installation
+https://github.com/mcordell/notion_elixir
+https://petal.build/pro
+https://fly.io/phoenix-files/announcing-langchain-for-elixir/
+https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/
+https://github.com/brainlid/langchain
+https://www.charlieholtz.com/articles/elixir-conf-2023
+https://fly.io/phoenix-files/created-my-personal-ai-fitness-trainer-in-2-days/
+https://www.sleepeasy.app/2024/01/21/elixir-best-language-for-bootstrapped-b2b-saas/?utm_medium=email&utm_source=elixir-radar

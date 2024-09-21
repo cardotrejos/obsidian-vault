@@ -1,0 +1,10 @@
+- What are the beneficts of using React?
+- What is a state manager?
+- Does Javascript have types?
+- What are the beneficts of using Typescript?
+- Type of types on Typescript 
+- What is typescript ? How it work? 
+- What is DOM? What is the virtual DOM?
+- Study the core, the basics of everything (React, Typescript, Javascript, Redux, etc)
+- Uncontrolled vs Controlled components
+- Difference to state/props
