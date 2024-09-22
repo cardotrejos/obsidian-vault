@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0375a7d74b98314f",
+        "id": "92b977395823e22b",
         "type": "tabs",
         "children": [
           {
-            "id": "370a7026299f0eeb",
+            "id": "db7fe3ff5bfd0ddf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elixir/Dockyard course notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elixir/Dockyard course notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elixir/Dockyard course notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Elixir/Dockyard course notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,8 +169,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "370a7026299f0eeb",
+  "active": "db7fe3ff5bfd0ddf",
   "lastOpenFiles": [
+    "2024-09-22.md",
+    "Elixir/Dockyard course notes.md",
     "Elixir/Elixir Dev.md",
     "Jason.md",
     "Recursive Search Binary Tree.md",
@@ -205,8 +199,6 @@
     "FiveToNine/Vite Migration.md",
     "Elixir/Resources.md",
     "Elixir/Pending CV.md",
-    "FivetonineAI Event Suggester.md",
-    "Elixir/Elixir Dev Bootcamp/8 - Metrics & Distributed tooling.md",
     "Elixir/Imagenes/Screenshot 2024-04-14 at 5.12.54 PM.png",
     "Elixir/Imagenes/Screenshot 2024-04-14 at 5.13.17 PM.png",
     "Elixir/Imagenes/Screenshot 2024-04-14 at 5.03.59 PM.png",
