@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indie Hacker/Things.md",
+                "file": "Indie Hacker/Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indie Hacker/Things.md",
+                "file": "Indie Hacker/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indie Hacker/Things.md",
+                "file": "Indie Hacker/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indie Hacker/Things.md"
+                "file": "Indie Hacker/Ideas.md"
               }
             }
           },
@@ -179,10 +179,10 @@
   },
   "active": "370a7026299f0eeb",
   "lastOpenFiles": [
+    "Indie Hacker/Things.md",
     "Indie Hacker/Ideas.md",
     "Indie Hacker/Drawing 2024-09-21 14.21.03.excalidraw.md",
     "Indie Hacker/Credit stuff.md",
-    "Indie Hacker/Things.md",
     "Recursive Search Binary Tree.md",
     "Indie Hacker/Untitled.md",
     "Indie Hacker/Untitled.canvas",
