@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indie Hacker/Ideas.md",
+                "file": "Elixir/Dockyard course notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indie Hacker/Ideas.md",
+                "file": "Elixir/Dockyard course notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indie Hacker/Ideas.md",
+                "file": "Elixir/Dockyard course notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indie Hacker/Ideas.md"
+                "file": "Elixir/Dockyard course notes.md"
               }
             }
           },
@@ -179,11 +179,15 @@
   },
   "active": "370a7026299f0eeb",
   "lastOpenFiles": [
-    "Indie Hacker/Things.md",
-    "Indie Hacker/Ideas.md",
-    "Indie Hacker/Drawing 2024-09-21 14.21.03.excalidraw.md",
-    "Indie Hacker/Credit stuff.md",
+    "Elixir/Elixir Dev.md",
+    "Jason.md",
     "Recursive Search Binary Tree.md",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.03.39 PM.png",
+    "Indie Hacker/Credit stuff.md",
+    "Indie Hacker/Drawing 2024-09-21 14.21.03.excalidraw.md",
+    "Indie Hacker/Ideas.md",
+    "Personal/Study.md",
+    "Indie Hacker/Things.md",
     "Indie Hacker/Untitled.md",
     "Indie Hacker/Untitled.canvas",
     "Elixir/Localhost.md",
@@ -202,20 +206,16 @@
     "Elixir/Resources.md",
     "Elixir/Pending CV.md",
     "FivetonineAI Event Suggester.md",
-    "Personal/Study.md",
     "Elixir/Elixir Dev Bootcamp/8 - Metrics & Distributed tooling.md",
-    "Screenshot 2024-04-14 at 5.12.54 PM.png",
-    "Screenshot 2024-04-14 at 5.13.17 PM.png",
-    "Screenshot 2024-04-14 at 5.03.39 PM.png",
-    "Screenshot 2024-04-14 at 5.03.59 PM.png",
-    "Screenshot 2024-04-14 at 5.04.02 PM.png",
-    "Screenshot 2024-04-14 at 5.04.12 PM.png",
-    "Screenshot 2024-04-14 at 5.04.29 PM.png",
-    "Screenshot 2024-04-14 at 5.04.53 PM.png",
-    "Screenshot 2024-04-14 at 5.05.05 PM.png",
-    "Screenshot 2024-04-14 at 5.05.25 PM.png",
-    "Elixir/Elixir Dev Bootcamp/9 - How to use Elixir to Architect an Application & Remote Debugging.md",
-    "Elixir/Elixir Dev Bootcamp/Errors, Tips, Finds.md",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.12.54 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.13.17 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.03.59 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.02 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.12 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.29 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.04.53 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.05.05 PM.png",
+    "Elixir/Imagenes/Screenshot 2024-04-14 at 5.05.25 PM.png",
     "Meru",
     "Music",
     "Secops & Bugbounty",
